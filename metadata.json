@@ -1,0 +1,6 @@
+{
+  "name": "Tapicería Náutica Deluxe",
+  "description": "Soluciones profesionales para embarcaciones, tapicería naval de lujo, detailing y trabajos en acero inoxidable y soldadura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
